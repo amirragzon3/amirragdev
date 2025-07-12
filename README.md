@@ -19,10 +19,10 @@
   ![Chocobo](./chocobo.gif)
 
   
-  ## 💻 **Habilidades**
+  ## 💻 **Skills**
 
 
-  ### **Lenguajes y Tecnologías**
+  ### **Languages & Technologies**
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -32,7 +32,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
-  ### **Herramientas**
+  ### **Tools**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -45,31 +45,10 @@
   ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
-  ## 📈 **Mis estadísticas**
+  ## 📈 **My Stats**
   
   ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rekznoz&show_icons=true&theme=radical)
   
   ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rekznoz&layout=compact&theme=radical)
 
 </div>
-
-<!--
-
-## 🤝 **Conectemos**
-- 🌐 [Mi portafolio](https://tusitio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tuperfil)
-- 🐦 [Twitter](https://twitter.com/tuusuario)
-
-**rekznoz/rekznoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
