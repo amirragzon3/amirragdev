@@ -1,6 +1,6 @@
 <div align="center" >
 
-  # 🌟 Welcome a mi GitHub :3
+  # 🌟 Welcome to my GitHub :3
   ![Banner](./IMG_5768.png)
 
 </div>
@@ -44,11 +44,11 @@
   ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)
   ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
-
+<!--
   ## 📈 **My Stats**
   
   ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rekznoz&show_icons=true&theme=radical)
   
   ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rekznoz&layout=compact&theme=radical)
-
+-->
 </div>
